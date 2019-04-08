@@ -1,0 +1,10 @@
+c:\users\vildmusen\source\repos\Snake\Snake\bin\Debug\Snake.exe.config
+c:\users\vildmusen\source\repos\Snake\Snake\bin\Debug\Snake.exe
+c:\users\vildmusen\source\repos\Snake\Snake\bin\Debug\Snake.pdb
+c:\users\vildmusen\source\repos\Snake\Snake\obj\Debug\Snake.csprojAssemblyReference.cache
+c:\users\vildmusen\source\repos\Snake\Snake\obj\Debug\Snake.Form1.resources
+c:\users\vildmusen\source\repos\Snake\Snake\obj\Debug\Snake.Properties.Resources.resources
+c:\users\vildmusen\source\repos\Snake\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+c:\users\vildmusen\source\repos\Snake\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+c:\users\vildmusen\source\repos\Snake\Snake\obj\Debug\Snake.exe
+c:\users\vildmusen\source\repos\Snake\Snake\obj\Debug\Snake.pdb
